@@ -35,5 +35,5 @@ Ogni giorno cerco di imparare qualcosa di nuovo. Che sia una libreria Python inn
 * Linux è il mio sistema preferito (**Specialmente FEDORA**), tanto è che quando sono su Windows con la WSL2 torno subito su Linux
 
 
-> Visita il mio sito! Lo puoi trovando andando al link [veronne2010.github.io](veronne2010.github.io), oppure premendoci sopra!
+> Visita il mio sito! Lo puoi trovando andando al link [veronne2010.github.io](https://www.veronne2010.github.io), oppure premendoci sopra!
 {: .prompt-tip }
