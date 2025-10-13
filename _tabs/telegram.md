@@ -1,5 +1,5 @@
 ---
 # the default layout is 'page'
-icon: fas fa-telegram
+icon: fa fa-telegram
 order: 4
 ---
