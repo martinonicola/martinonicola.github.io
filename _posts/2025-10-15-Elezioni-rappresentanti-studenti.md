@@ -2,13 +2,12 @@
 layout: post
 title: "Elezione organi collegiali - Liceo Scientifico Ulisse Dini"
 date: 2025-10-15 16:30:00 +0200
-categories: [Bacheca, organi collegiali]
+categories: [Bacheca, elezioni organi collegiali]
 tags: [scuola, bacheca, rappresentanti, organi collegiali]
 ---
 
-> Elezioni Organi Collegiali 2025/26: voto studenti 22 ottobre, ore 8:05–10:00.
+> **Elezioni Organi Collegiali 2025/26: voto studenti 22 ottobre, ore 8:05–10:00.**
 {: .prompt-info }
-Elezioni Organi Collegiali 2025/26: voto studenti 22 ottobre, ore 8:05–10:00.
 
 ## Data e orario
 🗓️ **Mercoledì 22 ottobre 2025**, dalle **ore 8:05 alle ore 10:00**.  
