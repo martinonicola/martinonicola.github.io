@@ -6,7 +6,7 @@ categories: [Bacheca, elezioni organi collegiali]
 tags: [scuola, bacheca, rappresentanti, organi collegiali]
 ---
 
-> **Elezioni Organi Collegiali 2025/26: voto studenti 22 ottobre, ore 8:05–10:00.**
+> **Elezioni Organi Collegiali 2025/26, voto degli studenti: 22 ottobre, si terranno alle ore 8:05–10:00**
 {: .prompt-info }
 
 ## Data e orario
