@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Canale Telegram - Feed di questo sito: notizie in tempo reale"
-date: 2025-10-22 08:30:00 +0200
+date: 2025-10-15 08:30:00 +0200
 categories: [Notizie dal rappresentante, canale Telegram]
 tags: [Notizie dal rappresentante, rappresentante, martinonicola, canale telegram, notizie, tempo reale, telegram, notizie in tempo reale]
 ---
