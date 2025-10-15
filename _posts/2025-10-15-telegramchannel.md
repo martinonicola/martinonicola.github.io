@@ -17,7 +17,9 @@ Con il feed integrato, potrai ricevere notizie in tempo reale, articoli e aggior
 ---
 
 📰 - Tutti i nuovi contenuti pubblicati sul sito vengono automaticamente condivisi sul canale.
+
 🔔 - Puoi attivare notifiche per essere avvisato immediatamente di ogni nuovo articolo.
+
 📲 - Il feed su Telegram ti permette di consultare rapidamente titoli, anteprime e link agli articoli completi.
 
 ### Come unirti
