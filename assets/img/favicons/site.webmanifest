@@ -1,0 +1,57 @@
+
+---
+layout: compress
+---
+
+{% assign favicon_path = "/assets/img/favicons" | relative_url %}
+
+{
+  "name": "Nicola Martino",
+  "short_name": "Nicola Martino",
+  "id": "nicola-martino-liceodini",
+  "scope": "/",
+  "description": "Bacheca di Nicola Martino, candidato rappresentante di classe.",
+  "start_url": "{{ '/index.html' | relative_url }}",
+  "theme_color": "#2a1e6b",
+  "background_color": "#ffffff",
+  "display_override": ["window-control-overlay", "fullscreen", "minimal-ui"],
+  "display": "standalone",
+  "orientation": "natural",
+  "icons": [
+    {
+      "src": "{{ favicon_path }}/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "{{ favicon_path }}/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+    "shortcuts": [
+    {
+      "name": "Home",
+      "short_name": "Home",
+      "url": "{{ '/index.html' | relative_url }}",
+      "icons": [
+        {
+          "src": "{{ favicon_path }}/web-app-manifest-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Tools",
+      "short_name": "Tools",
+      "url": "{{ '/tools' | relative_url }}",
+      "icons": [
+        {
+          "src": "{{ favicon_path }}/web-app-manifest-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
